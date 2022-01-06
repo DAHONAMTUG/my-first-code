@@ -10,4 +10,5 @@ while n != "guess":
        guess = int(input("Enter an integer from 1 to 99: "))
    else:
        print("you guessed it!")
+       print("The game is finishd")
        break
